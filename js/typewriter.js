@@ -122,7 +122,7 @@
         })
     }), t.Typed = i;
     var r = {
-        strings: [`<i class="fa fa-laptop text-muted pr-2"></i> Student at Delhi Technological University`, `I'm a Software <i class="fa fa-laptop text-muted pr-2"></i> Developer...`, `I'm a Full-stack <i class="fa pl-2 pr-2 fa-code"></i> Developer`, `I'm a Data Analyst` , `I Love <i class="fa fa-heart     text-danger"></i> problem solving and Programming...`],
+        strings: [`<i class="fa fa-laptop text-muted pr-2"></i> Student at IIT Delhi`, `I'm a Software <i class="fa fa-laptop text-muted pr-2"></i> Developer...`, `I'm a Full-stack <i class="fa pl-2 pr-2 fa-code"></i> Developer`, `I'm a Data Analyst` , `I Love <i class="fa fa-heart     text-danger"></i> problem solving and Programming...`],
         stringsElement: null,
         typeSpeed: 0,
         startDelay: 0,
